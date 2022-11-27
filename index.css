@@ -1,0 +1,76 @@
+
+h2{
+    text-align: left;
+}
+#recherche{
+    color: rgb(163, 163, 163);
+
+}
+.search{
+    border: 1px solid gainsboro;
+}
+.card-header{
+    background-color: rgb(14, 83, 211);
+    color: white;
+}
+i{
+    color: red;
+}
+table{
+    margin-top: 4%;
+    width: 88%;
+    margin-bottom: 5%;
+    border: black;
+    margin-left: 6%;
+}
+.btn{
+    text-align: left;
+    background-color: rgb(22, 22, 22);
+    color: rgb(255, 255, 255);
+    margin-right: 70%;
+    margin-bottom: 5%;
+}
+.card{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+}
+.sdcard{
+    margin-top: 4%;
+}
+#inp{
+    padding: 2%;
+    width: 80%;
+}
+button{
+    padding: 2%;
+}
+#inpu{
+    padding: 2%;
+    width: 75%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.bt{
+    background-color:rgb(14, 83, 211);
+    border: rgb(14, 83, 211);
+    border-radius: 5%;
+}
+#icon{
+    color: white;
+}
+#one{
+    border: 1px solid gainsboro;
+    padding: 2%; 
+}
+#two{
+    border: 1px solid gainsboro;
+    padding: 2%; 
+}
+#three{
+    border: 1px solid gainsboro;
+    padding: 2%; 
+}
+tr{
+   text-align: left;
+}
